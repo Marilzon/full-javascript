@@ -1,3 +1,3 @@
 # FULL JAVASCRIPT
 
- - Repositório para relembrar e treinar javascript puro.
+ - Repositório para amarzenar consultas e algoritimos com javascript puro.
