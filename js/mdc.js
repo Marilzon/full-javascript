@@ -17,3 +17,8 @@ const mdc = () => {
     return arr[0]
 }
 
+/* Metodo de função curring */
+const curryFunction = element_one => element_two => element_three => `
+    ${element_one}, ${element_two}, ${element_three}
+`
+
