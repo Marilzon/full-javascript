@@ -1,5 +1,6 @@
-/* Máximo Denominador Comum (MDC), Algoritimo Elclides */
-const mdc = () => {
+/* Máximo Denominador Comum, Algoritimo Elclides    */
+/* Maximun Common Denominator, Elclides Algorithm   */
+const maximunCommonDenominator = function() {
     let arr = []
     let a = prompt("Digite o primeiro numero")
     let b = prompt("Digite o segundo numero")
@@ -17,8 +18,4 @@ const mdc = () => {
     return arr[0]
 }
 
-/* Metodo de função curring */
-const curryFunction = element_one => element_two => element_three => `
-    ${element_one}, ${element_two}, ${element_three}
-`
-
+export { maximunCommonDenominator }
