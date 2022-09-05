@@ -17,5 +17,3 @@ const maximunCommonDenominator = function() {
 
     return arr[0]
 }
-
-export { maximunCommonDenominator }

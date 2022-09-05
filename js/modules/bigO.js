@@ -14,5 +14,3 @@ const sumUpTo = function(number) {
     */
     return (number * (number + 1) / 2)
 }
-
-export { whyMyInput, sumUpTo }

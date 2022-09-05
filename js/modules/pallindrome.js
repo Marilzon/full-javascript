@@ -8,5 +8,3 @@ const isPallindrome = function(number) {
         return false
     }
 }
-
-export { isPallindrome }
