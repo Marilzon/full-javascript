@@ -1,3 +1,3 @@
 # FULL JAVASCRIPT
 
- - Repositório para amarzenar consultas e algoritimos com javascript puro.
+ - Repositório para amarzenar algoritimos e boas praticas com javascript.
