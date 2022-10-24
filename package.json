@@ -1,0 +1,8 @@
+{
+  "name": "full-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Marilzon/full-javascript.git",
+  "author": "Marilzon <maxmaril@hotmail.com>",
+  "license": "MIT"
+}
