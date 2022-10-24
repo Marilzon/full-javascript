@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/Marilzon/full-javascript.git",
   "author": "Marilzon <maxmaril@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+	"lint": "npx eslint"
+  },
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
 }
