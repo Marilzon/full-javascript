@@ -1,4 +1,4 @@
-var a = [1,2,3,4,3,2,1]
+var a = [1, 2, 3, 4, 3, 2, 1]
 
 function lonelyinteger(a) {
 	let lowerItem = 0
